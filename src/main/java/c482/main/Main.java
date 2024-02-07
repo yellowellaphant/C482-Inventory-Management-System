@@ -9,7 +9,7 @@ import model.*;
 import java.io.IOException;
 
 /**
- * The java docs are located in a folder labeled "javadocs" submitted separately from the zip file
+ * The java docs are located in a folder labeled "javadocs" this is submitted separately from the zip file
  *
  * FUTURE_ENHANCEMENT A future enhancement could be to add a slider bar to the inventory
  * level (stock) field that only allows the user to input an amount between the min and max
